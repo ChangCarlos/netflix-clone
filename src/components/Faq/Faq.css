@@ -1,0 +1,27 @@
+.faq-container {
+    background-color: #000000;
+    height: 930px;
+}
+
+
+.faq-sub-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 790px;
+    row-gap: 50px;
+    padding: 70px 0;
+}
+
+.faq-sub-container h2 {
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.faq {
+    width: 815px;
+    height: 494px;
+    margin: 0 auto;
+}

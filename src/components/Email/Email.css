@@ -1,0 +1,30 @@
+.email-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 950px;
+    height: 138px;
+}
+
+.email-title {
+    font-size: 19px;
+    color: #ffffff;
+}
+
+.email-input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 748px;
+    height: 70px;
+}
+
+.input-email {
+    width: 480px;
+    height: 100%;
+    font-size: 16px;
+    padding: 0 0 0 7px;
+    border: none;
+    border-radius: 2px 0 0 2px;
+}

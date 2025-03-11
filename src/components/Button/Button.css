@@ -1,0 +1,26 @@
+.signin-btn {
+    width: 95px;
+    height: 42px;
+    background-color: #ff0000;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #ffffff;
+    padding: 7px 16px;
+    cursor: pointer;
+}
+
+.getstarted-btn {
+    width: 247px;
+    height: 70px;
+    background-color: #ff0000;
+    padding: 0;
+    border: none;
+    border-radius: 0 2px 2px 0;
+    font-size: 30px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.getstarted-btn img {
+    margin-left: 15px;
+}

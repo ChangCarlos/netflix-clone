@@ -1,0 +1,6 @@
+.banner {
+    background-image: url(http://localhost:3000/assets/bg-img.png);
+    background-size: cover;
+    height: 747px;
+    width: 100%;
+}

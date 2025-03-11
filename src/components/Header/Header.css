@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 23px 56px;
+}
+
+.sub-section-header {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.lang-dropdown {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 94px;
+    height: 30px;
+    padding: 5px;
+    gap: 3px;
+    border: 1px solid #ffffff;
+    border-radius: 3px;
+}
+
+.lang-dropdown p {
+    font-size: 14px;
+    color: #ffffff;
+}

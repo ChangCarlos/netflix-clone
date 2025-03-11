@@ -1,0 +1,25 @@
+.hero-container {
+    width: 100%;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: 0 auto;
+    color: #ffffff
+}
+
+.sub-container h1 {
+    font-size: 64px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.sub-container h3 {
+    font-size: 26px;
+    font-weight: 200;
+}
+
