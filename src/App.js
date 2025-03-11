@@ -1,4 +1,3 @@
-import './App.css';
 import Banner from './components/Banner';
 import Faq from './components/Faq';
 import Separator from './components/Separator';
